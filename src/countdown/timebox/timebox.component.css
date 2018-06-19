@@ -1,0 +1,20 @@
+.timebox {
+  border: 1px solid #bbb;
+  border-radius: 3px;
+  display: inline-block;
+  margin: 5px 1em;
+  padding: 1em;
+  min-width: 100px;
+  font-weight: 400;
+}
+.timebox p {
+  margin: 5px;
+}
+.timebox .box-value{
+  font-size: 2em;
+}
+
+.timebox .box-title {
+  color: #bbb;
+  font-size: 1.3em;
+}
