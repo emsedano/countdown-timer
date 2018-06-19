@@ -15,3 +15,5 @@ expected image:
 **Note: Modify the target date (`@src/App.js`)for count down by adding days, hour or set up a moment ()**
 
 ![playground](https://raw.githubusercontent.com/emsedano/countdown-timer/master/doc/Screen%20Shot%202018-06-19%20at%2012.32.47%20AM.png)
+
+## Live demo [here](https://emsedano.github.io/countdown-timer/)
